@@ -1,13 +1,19 @@
-p {
+.odd {
     background-color: lightpink;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, sans-serif;
 }
 
-div {
-    color:blue;
+#two {
+    color: blue;
     font-size: 36px;
 }
 
-.third {
+.odd-cool {
     font-size: 24px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
